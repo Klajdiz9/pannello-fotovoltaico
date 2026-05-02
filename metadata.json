@@ -1,0 +1,6 @@
+{
+  "name": "PV System Simulator",
+  "description": "Simulatore avanzato per sistemi fotovoltaici: calcolo produzione, PR, ROI ed export dati in JSON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
